@@ -1,4 +1,3 @@
-const cypress = require("cypress");
 
 describe('login/logout tets', () => {
     before(() => {
